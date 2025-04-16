@@ -176,3 +176,6 @@ cython_debug/
 
 #movie metadata
 movies_metadata.csv
+
+#metadata macos finder
+.DS_Store
